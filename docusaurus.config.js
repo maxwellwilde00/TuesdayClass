@@ -41,7 +41,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/zombie.svg',
+      image: 'img/palm.svg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,
@@ -50,7 +50,7 @@ const config = {
         title: '107T White Paper Series',
         logo: {
           alt: 'Series mark',
-          src: 'img/zombie.svg',
+          src: 'img/palm.svg',
         },
         items: [
           {
